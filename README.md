@@ -1,6 +1,8 @@
-![header-background](https://user-images.githubusercontent.com/88071912/137026041-a4f06ed7-fcc4-45d7-bde5-b2ca9c2904b2.png)
+![header-background](https://raw.githubusercontent.com/harishpatel143/react-portfolio/master/portfolio.png)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+SuperCoder.;I+AM+A+SEASONED+WEB+DEVELOPER.;WELCOME+TO+VISIT+MY+Github.)](https://git.io/typing-svg)
-    <h2 align="center">
+
+<h2 align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
@@ -12,20 +14,14 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     </h2>
     <br>
-    
-<a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>
 
 <h2 align="center">👯Let's make "Success" Together!👯</h2><br>
 🤔 The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
 Enthusiastic Web Developer who loves to create effective websites and work with businesses to help them grow.
 <br>
 <h2 align="center">🔥 My skills 🔥</h2>
-<hr>
-<br>
-<p>💬I consider myself a person who follows modern web development practices and new technologies.</p>
-<p>So, this list will be uniformly updated as I never stop learning.</p>
-<br>
 
+<br>
 
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
@@ -38,17 +34,10 @@ Enthusiastic Web Developer who loves to create effective websites and work with 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
-
-<hr>
 <br>
-<hr>
-<br>
-<hr/>
-
 <h2 align="center"> 👯Let's go together!👯 </h2>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <hr>
-<br>
 <h2 align="center">🔥 Stats 🔥</h2>
 <p align=center>
   <div align=center>
